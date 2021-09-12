@@ -19,16 +19,16 @@ Despite all the obstacles, we are really happy that we could incorporate all our
 We will try to include more things like a community feature, in which people can talk to each other and share things. We also want to include a face mask detecting model. If possible we will add more AR ideas.
 
 ## Built With
-api
-ar.js
-bootstrap
-canva
-css3
-firebase
-html5
-javascript
-unity
-webgl
+- api
+- ar.js
+- bootstrap
+- canva
+- css3
+- firebase
+- html5
+- javascript
+- unity
+- webgl
 
 ## Try it out
  sushreesatarupa.github.io
