@@ -31,5 +31,5 @@ We will try to include more things like a community feature, in which people can
 - webgl
 
 ## Try it out
- sushreesatarupa.github.io
- corona-care-4753c.web.app
+ https://sushreesatarupa.github.io
+ https://corona-care-4753c.web.app
