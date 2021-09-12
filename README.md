@@ -34,4 +34,5 @@ We will try to include more things like a community feature, in which people can
 
 ## Try it out
  https://sushreesatarupa.github.io
- corona-care-4753c.web.app
+ 
+ https://corona-care-4753c.web.app
